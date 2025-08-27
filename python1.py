@@ -6,7 +6,6 @@ Quint="Bien"
 print("me meto a la rama isacc")
 
 
-
-X=25
+f=20
 
 
